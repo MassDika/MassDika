@@ -27,5 +27,5 @@
 ---
 
 ### 📈 GitHub Stats
-![Juanda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanda&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanda&layout=compact&theme=radical)
+![Juanda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MassDika&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MassDika&layout=compact&theme=radical)

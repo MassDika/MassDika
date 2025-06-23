@@ -13,7 +13,6 @@
 🎓 Teknik Informatika | UTM Mataram  
 🌱 Gemar belajar hal baru terutama Web Development  
 💡 Tertarik pada Front-End & Back-End  
-📘 Sedang membangun proyek WMS & jualan preset Lightroom
 
 ---
 

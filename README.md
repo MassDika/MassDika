@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Indy and I'm a Junior Web Deplovment, from Mataram, Indonesia</p>
+<p align="left">My name is Indy and I'm from Mataram, Indonesia</p>
 
 ###
 
@@ -26,5 +26,5 @@
 ---
 
 ### 📈 GitHub Stats
-![Juanda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krnwndy&show_icons=true&theme=radical)
+![indy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krnwndy&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krnwndy&layout=compact&theme=radical)
